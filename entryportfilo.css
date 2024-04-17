@@ -1,0 +1,26 @@
+body { 
+	margin: 100; 
+	padding: 150; 
+	box-sizing: border-box; 
+	font-family: 'Poppins', sans-serif; 
+} 
+body {
+    
+    background-color: #de8ae8 ;}
+div {
+    
+    background-repeat: no-repeat;
+    padding-top: 55px;
+    background:white;
+    background-attachment: fixed;
+    padding-bottom :70px;
+    margin: 80px;
+    height: 500px;
+    width: 700px;
+    box-sizing: border-box;
+
+  }
+h1
+{
+padding-bottom: 50px;
+}
